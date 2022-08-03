@@ -2,7 +2,7 @@
 My name is Justin van der Leij, a software engineering student from the Netherlands.
 
 I love everything programming, from front- to backend, robotics, apps, and games.<br>
-I'm currently in the third year of my study at the NHL Stenden University of Applied Sciences for my bachelor's degree in software engineering.
+I'm currently in the fourth year of my study at the NHL Stenden University of Applied Sciences for my bachelor's degree in software engineering.
 
 When I'm not programming I'm likely playing the 🎹 or spoiling my 😸😸😸😸.
 
